@@ -27,5 +27,7 @@ incorporated into the game to enhance the gaming experience.
 Game Loop: The main game loop handles player movements, shooting, enemy behavior, wave
 progression, and checks for game over conditions. It runs the game until the player either runs out of lives
 or health, displaying a "You Lost!!" message on the screen in case of defeat.
-Main Menu: A simple main menu is provided where the player can start the game by pressing the mouse
+Main Menu: A simple main menu is provided where the player can start the game by cd ..pressing the mouse
 button. 
+author- NAYAN RAJ
+mini project
